@@ -1,6 +1,6 @@
 Name:		texlive-catchfile
 Version:	53084
-Release:	1
+Release:	2
 Summary:	Catch an external file into a macro
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/catchfile
