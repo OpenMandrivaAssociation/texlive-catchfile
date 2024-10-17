@@ -3,7 +3,7 @@ Version:	53084
 Release:	2
 Summary:	Catch an external file into a macro
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/catchfile
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/catchfile
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/catchfile.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/catchfile.doc.r%{version}.tar.xz
